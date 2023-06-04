@@ -1,0 +1,10 @@
+newline_style = 'Unix'
+max_width = 120
+blank_lines_upper_bound = 2
+reorder_imports = true
+group_imports = 'StdExternalCrate'
+imports_granularity = 'Crate'
+binop_separator = 'Front'
+remove_nested_parens = true
+trailing_comma = 'Vertical'
+merge_derives = true
